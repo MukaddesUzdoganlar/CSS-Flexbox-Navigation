@@ -29,3 +29,14 @@ ul {
   padding: 5px 14px;
   border-radius: 5px;
 }
+
+.navigation__link {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.navigation__menu {
+  justify-content: space-between;
+  display: flex;
+}
